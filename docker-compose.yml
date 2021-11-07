@@ -1,0 +1,9 @@
+version: "1.0"
+
+services:
+  m:
+    container_name: m
+    restart: always
+    build: .
+    ports:
+      - "3000:3000"
