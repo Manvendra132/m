@@ -12,7 +12,10 @@
 git clone https://github.com/Manvendra132/m
 ```
 
-`cd talk` and then install dependencies
+```
+cd talk
+``` 
+and then install dependencies
 
 ```
 npm install
