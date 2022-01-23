@@ -1,0 +1,23 @@
+{
+	"name": "m",
+	"version": "1.0.0",
+	"description": "A free video call app for the web.",
+	"main": "server.js",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/Manvendra132"
+	},
+	"keywords": [
+		"webrtc",
+		"socket.io",
+		"video"
+	],
+	"dependencies": {
+		"express": "^4.17.1",
+		"socket.io": "^4.0.1",
+		"vue": "^2.6.12"
+	}
+}
