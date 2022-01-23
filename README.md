@@ -1,7 +1,7 @@
 
 ### Prerequisites:
 
-- Node.js 8.x or above
+- Node.js 8.3.2 or above
 - NPM
 
 ### How to Build this app locally
